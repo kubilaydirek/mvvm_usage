@@ -1,17 +1,7 @@
-# jobs_post
+NodeJS ile yazdığım get ve post istekleri ile veri kaydederek kaydettiğim verileri ekrana göstermekteyim.
+Projenin asıl amacı gerçek bir web servise istek atarken flutter projesinde mvvm kullanımını göstermektir.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/97626735/217479039-1e4357a7-cad2-4aa7-967b-d25a93e3f7b5.mov
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# mvvm_usage
