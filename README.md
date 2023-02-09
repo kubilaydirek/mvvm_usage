@@ -1,5 +1,5 @@
 NodeJS ile yazdığım get ve post istekleri ile veri kaydederek kaydettiğim verileri ekrana göstermekteyim.
-Projenin asıl amacı gerçek bir web servise istek atarken flutter projesinde mvvm kullanımını göstermektir.
+Projenin asıl amacı gerçek bir servise istek atarken flutter projesinde mvvm kullanımını göstermektir.
 
 
 
