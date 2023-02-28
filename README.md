@@ -1,7 +1,5 @@
-NodeJS ile yazdığım get ve post istekleri ile veri kaydederek kaydettiğim verileri ekrana göstermekteyim.
-Projenin asıl amacı gerçek bir servise istek atarken flutter projesinde mvvm kullanımını göstermektir.
+With the get and post requests I wrote with NodeJS, I save data and show the data I saved to the screen. The main purpose of the project is to show the use of mvvm in the flutter project when making a request to a real service.
 
 
 
-https://user-images.githubusercontent.com/97626735/217479039-1e4357a7-cad2-4aa7-967b-d25a93e3f7b5.mov
 
